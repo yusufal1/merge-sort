@@ -10,3 +10,4 @@
 
 BigO : 2ˣ = n -> x = logn
 O(nlogn)
+a
